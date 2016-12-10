@@ -1,0 +1,17 @@
+{
+  "name": "npmexercises",
+  "version": "1.0.0",
+  "description": "npm 101",
+  "main": "npmExercises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dominic",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "lodash": "^4.17.2",
+    "marked": "^0.3.6",
+    "request": "^2.79.0"
+  }
+}
